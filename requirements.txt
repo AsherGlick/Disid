@@ -1,0 +1,11 @@
+coverage==6.5.0
+flake8==6.0.0
+mypy==0.991
+
+## The following requirements were added by pip freeze:
+mccabe==0.7.0
+mypy-extensions==0.4.3
+pycodestyle==2.10.0
+pyflakes==3.0.1
+tomli==2.0.1
+typing-extensions==4.4.0
