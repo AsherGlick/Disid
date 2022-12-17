@@ -17,7 +17,7 @@ https://example.com/blogpost/SyyUZ
 https://example.com/blogpost/EIrPp
 ```
 
-The process is reversable and does not need access to a database. A optional constant key file can be distributed among all of the processes that need to convert between a disid id and a numerical value.
+The process is reversable and does not need access to a database. A optional static key file can be distributed among all of the processes that need to convert between a Disid id and a numerical value.
 
 Example
 =======
