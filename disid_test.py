@@ -1,7 +1,7 @@
 from typing import Final, List
 import unittest
-import disid
-import keytools
+from disid import disid
+from disid import keytools
 
 shift_cipher_5_key: Final[List[str]] = keytools.convert_key_to_character_lists(
     bytes.fromhex(

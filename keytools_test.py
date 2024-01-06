@@ -1,6 +1,6 @@
 from typing import List
 import unittest
-import keytools
+from disid import keytools
 import unittest.mock
 
 
